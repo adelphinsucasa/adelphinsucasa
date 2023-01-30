@@ -4,7 +4,7 @@ A System Engineer with over 22 years of experience in different computing areas.
 I have approved HTML and CSS and now studying JavaScript on Microverse, wich is a great platform where I am studying 8 hours a day and working with different coding partners using collaborative programming through Github.
 <br>
 <br>
-<img src="https://img.shields.io/twitter/url?style=social" width="120">
+<a href="https://twitter.com/JoseADelphin"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="120"></a>
 <br>
 <br>
 Enjoy my Bio:
