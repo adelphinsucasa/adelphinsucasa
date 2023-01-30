@@ -4,6 +4,7 @@ A System Engineer with over 22 years of experience in different computing areas.
 I have approved HTML and CSS and now studying JavaScript on Microverse, wich is a great platform where I am studying 8 hours a day and working with different coding partners using collaborative programming through Github.
 
 Enjoy my Bio:
+
 ```javascript
 const JoseDelphin = {
   Studying: "Front-end developer" || "Full-stack web developer",
@@ -20,3 +21,15 @@ const JoseDelphin = {
   projects']
 }
 ```
+
+### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   11 hrs 18 mins  ████████████████████████▒   97.33 %
+JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
+<!--END_SECTION:waka-->
