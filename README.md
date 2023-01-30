@@ -1,4 +1,4 @@
-### Hi World!!! 👋
+### <h1>Hi World!!!</h1> 👋
 <h2>I am Jose Delphin</h2> <img src="https://www.gifsanimados.org/data/media/56/computadora-y-ordenador-imagen-animada-0019.gif" width="80">
 A System Engineer with over 22 years of experience in different computing areas.<br>
 I have approved HTML and CSS and now studying JavaScript on Microverse, wich is a great platform where I am studying 8 hours a day and working with different coding partners using collaborative programming through Github.
