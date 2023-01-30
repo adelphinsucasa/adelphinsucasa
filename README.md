@@ -22,7 +22,7 @@ const JoseDelphin = {
 }
 ```
 
-### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
+### This week I spent my time on<img src="https://www.gifsanimados.org/data/media/137/reloj-imagen-animada-0004.gif" width="40">
 
 <!--START_SECTION:waka-->
 
