@@ -6,7 +6,7 @@ I have approved HTML and CSS and now studying JavaScript on Microverse, wich is 
 <br>
 <a href="https://twitter.com/JoseADelphin" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="80"></a>
 <a href="https://www.youtube.com/channel/UCKsCnWm0PIZ2A9Lo_gxZarQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCKsCnWm0PIZ2A9Lo_gxZarQ?style=social" width="120"></a>
-<a href="https://www.facebook.com/josedelphinasesor" target="_blank"><img src="https://img.shields.io/endpoint?label=Facebook&logo=Facebook&logoColor=blue&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fjosedelphinasesor" width="180"></a>
+
 
 <br>
 <br>
