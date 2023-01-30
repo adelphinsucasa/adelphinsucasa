@@ -4,7 +4,7 @@ A System Engineer with over 22 years of experience in different computing areas.
 I have approved HTML and CSS and now studying JavaScript on Microverse, wich is a great platform where I am studying 8 hours a day and working with different coding partners using collaborative programming through Github.
 <br>
 <br>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https:https://twitter.com/JoseADelphin/)](https://twitter.com/JoseADelphin)
+[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/ellievillalejos/)
 
 <br>
 <br>
