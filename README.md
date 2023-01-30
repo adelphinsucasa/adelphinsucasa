@@ -1,8 +1,10 @@
 ### Hi World!!! 👋
-I am Jose Delphin, a System Engineer with over 22 years of experience in different computing areas.
+<h2>I am Jose Delphin<h2>
+A System Engineer with over 22 years of experience in different computing areas.
 I have approved HTML and CSS and now studying JavaScript on Microverse, wich is a great platform where I am studying 8 hours a day and working with different coding partners using collaborative programming through Github.
 
 Enjoy my Bio:
+```javascript
 const JoseDelphin = {
   Studying: "Front-end developer" || "Full-stack web developer",
   Goal: "Create an awesome platform to recruit great programmers and give servide to all the people and companies requiring this around the world"
@@ -14,3 +16,4 @@ const JoseDelphin = {
   funFacts: ['I have 6+ years of remote work experience with devs from all over the world', 
   'I love programming, and learn new things everyday', 'I enjoy reaching out complex projects']
 }
+```
