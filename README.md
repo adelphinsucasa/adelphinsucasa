@@ -2,6 +2,8 @@
 <h2>I am Jose Delphin</h2>
 A System Engineer with over 22 years of experience in different computing areas.<br>
 I have approved HTML and CSS and now studying JavaScript on Microverse, wich is a great platform where I am studying 8 hours a day and working with different coding partners using collaborative programming through Github.
+<img src="https://www.gifsanimados.org/img-computadora-y-ordenador-imagen-animada-0019-44103.htm" width="40">
+<br>
 <br>
 Enjoy my Bio:
 
