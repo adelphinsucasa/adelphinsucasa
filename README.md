@@ -1,8 +1,8 @@
 ### Hi World!!! 👋
 <h2>I am Jose Delphin</h2>
-A System Engineer with over 22 years of experience in different computing areas.
+A System Engineer with over 22 years of experience in different computing areas.<br>
 I have approved HTML and CSS and now studying JavaScript on Microverse, wich is a great platform where I am studying 8 hours a day and working with different coding partners using collaborative programming through Github.
-
+<br>
 Enjoy my Bio:
 
 ```javascript
@@ -27,7 +27,7 @@ const JoseDelphin = {
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   32 hrs          ███████████████████████░░   80.00ca %
+JavaScript   32 hrs          ███████████████████████░░   80.00 %
 CSS          4  hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
 HTML         4  hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
 ```
