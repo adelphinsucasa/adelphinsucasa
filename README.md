@@ -33,9 +33,10 @@ const JoseDelphin = {
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   32 hrs          ███████████████████████░░   80.00 %
-CSS          4  hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-HTML         4  hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+JavaScript   27 hrs          ██████████████░░░░   67.50 %
+CSS          4  hrs          ▓▓░░░░░░░░░░░░░░░░   10.00 %
+HTML         4  hrs          ▓▓░░░░░░░░░░░░░░░░   10.00 %
+Github       5  hrs          ▓▓▓░░░░░░░░░░░░░░░   12.50 %
 ```
 
 <!--END_SECTION:waka-->
