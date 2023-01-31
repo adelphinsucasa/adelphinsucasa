@@ -2,11 +2,14 @@
 <p align="center"><img src="./Logo.jpeg" width="180" align="center"><p>
 My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world.
 
-# 📍Current Location
+# 📍Current Location and Contact
  
- **City:** Valera
- **State:** Trujillo
- **Country:** Venezuela
+ **City:** Valera<br>
+ **State:** Trujillo<br>
+ **Country:** Venezuela<br>
+ **Email:** dalejandro.005@gmail.com<br>
+ **Job Title:** Data Analyst / Developer<br>
+ **Portfolio:** Coming soon
  
 # 💻Tech Skills
   
