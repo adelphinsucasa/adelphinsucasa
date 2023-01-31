@@ -1,6 +1,8 @@
 ### <h1 align="center">Hi World!!! 👋</h1>
 <p align="center"><img src="./Logo.jpeg" width="180" align="center"><p>
-My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world, using the following tech skills:
+My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world.
+ 
+# 💻Tech Skills
   
 <ul>
 <li>VBA macro Excel programming</li>
@@ -11,7 +13,7 @@ My name is Jose Delphin, I am a Systems Engineer with over 21 years of experienc
 <li>Collaborative coding on Github</li>
 </ul>
 
-Now I am completing a full-stack web programming course at Microverse, which is a remote software development program that uses pair programming and project building to teach development. Don't hesitate to improve your skills with us => <a href="https://www.microverse.org/?grsf=39y755" target="_blank">MICROVERSE</a>
+Now I am completing a <strong>full-stack</strong> web programming course at Microverse, which is a remote software development program that uses pair programming and project building to teach development. Don't hesitate to improve your skills with us => <a href="https://www.microverse.org/?grsf=39y755" target="_blank">MICROVERSE</a>
 
 I worked in 2 big companies, Coca Cola, and a supermarket chain as a programmer and finally as a TIC manager for 15 years and also as a professor of computer science at the same university where I studied. I was able to learn to work in a team, listen to partners or students and understand their points of view, teach people and do hard research to solve complex projects like ERP, HHRR, Point of Sales, and Accounting.
 
