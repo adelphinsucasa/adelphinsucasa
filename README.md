@@ -31,10 +31,10 @@ For the last 5 years I have worked as a freelancer, with over 300 projects focus
 
 <ul>
  Projects
-<li>[Jose Delphin Portfolio](https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first)</li>
-[<li>Capstone Project Jose Delphin</li>](https://github.com/adelphinsucasa/Capstone-Project)
-[<li>Awesome Books</li>](https://github.com/adelphinsucasa/Awesome-Books-with-ES6)
-[<li>To Do List</li>](https://github.com/adelphinsucasa/To-Do-List)
+<li><a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="_blank">Jose Delphin Portfolio</a></li>
+<li><a href="https://github.com/adelphinsucasa/Capstone-Project" target="_blank">Capstone Project Jose Delphin</a></li>
+<li><a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="_blank">Awesome Books</a></li>
+<li><a href="https://github.com/adelphinsucasa/To-Do-List" target="_blank">To Do List</a></li>
 </ul>
 
 I'm available for hire. I am looking for an opportunity to help with my technical skills, and I am open to working with complex projects as a **full stack developer**.
