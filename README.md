@@ -36,7 +36,7 @@ I am looking for opportunity to help with my tech skills, and I am open to work 
 Feel free to get in touch and let’s get the best team
 
 # Email
-<a href="dalejandro.005@gmail.com" target="_blank">dalejandro.005@gmail.com</a>
+<a href="mailto: dalejandro.005@gmail.com" target="_blank">dalejandro.005@gmail.com</a>
 
 # Social Media
 <a href="https://twitter.com/JoseADelphin" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="80"></a>
