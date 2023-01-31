@@ -1,6 +1,6 @@
-### <p align="center"><h1>Hi World!!! 👋</h1></p>
+<p align="center">### <h1>Hi World!!! 👋</h1></p>
 <p align="center"><img src="./Logo.jpeg" width="180" align="center"><p>
-<p align="left">My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world, using the following tech skills:<p>
+My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world, using the following tech skills:
   
 <ul>
 <li>VBA macro Excel programming</li>
@@ -19,28 +19,26 @@ For the last 5 years, I have worked as a freelancer, with over 300 projects focu
 
 <ul>
 <li>Jose Delphin Portfolio 
-<a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first">Visit the link</a>
+<a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="blank">Visit the link</a>
 </li>
 <li>Capstone Project Jose Delphin
-<a href="https://github.com/adelphinsucasa/Capstone-Project">Visit the link</a>t</li>
+<a href="https://github.com/adelphinsucasa/Capstone-Project" target="blank">Visit the link</a>t</li>
 </ul>
 <li>Awesome Books
-<a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6">Visit the link</a>
+<a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="blank">Visit the link</a>
 </li>
 <li>To Do List
-<a href="https://github.com/adelphinsucasa/To-Do-List">Visit the link</a>t</li>
+<a href="https://github.com/adelphinsucasa/To-Do-List" target="blank">Visit the link</a></li>
 </ul>
-<br>
-Social Media
-<a href="https://twitter.com/JoseADelphin" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="80"></a>
-<a href="https://www.youtube.com/channel/UCKsCnWm0PIZ2A9Lo_gxZarQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCKsCnWm0PIZ2A9Lo_gxZarQ?style=social" width="120"></a>
-<br>
-<br>
-Enjoy my Bio:
 
 I am looking for opportunity to help with my tech skills, and I am open to work with complex projects.
 Feel free to get in touch and let’s get the best team
 
+Email
+<a href="dalejandro.005@gmail.com" target="blank">dalejandro.005@gmail.com</a>
+Social Media
+<a href="https://twitter.com/JoseADelphin" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="80"></a>
+<a href="https://www.youtube.com/channel/UCKsCnWm0PIZ2A9Lo_gxZarQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCKsCnWm0PIZ2A9Lo_gxZarQ?style=social" width="120"></a>
 
 ### This week I spent my time on<img src="https://www.gifsanimados.org/data/media/137/reloj-imagen-animada-0004.gif" width="40">
 
