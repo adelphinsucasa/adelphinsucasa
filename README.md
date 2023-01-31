@@ -1,6 +1,6 @@
 ### <h1>Hi World!!! 👋</h1>
-<img src="./Logo.jpeg" width="180">
-My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world, using the following tech skills:
+<p align="center"><img src="./Logo.jpeg" width="180" align="center"><p>
+<p align="left">My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world, using the following tech skills:<p>
 <ul>
 <li>VBA macro Excel programming</li>
 <li>Visual Basic Net</li>
