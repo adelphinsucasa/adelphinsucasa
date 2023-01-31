@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi World!!! 👋</h1>
 <p align="center"><img src="./Logo.jpeg" width="180" align="center"><p>
-My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world.
+My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level, living in Trujillo-Venezuela. I love working with development systems for companies or personal projects around the world.
  
 # 💻Tech Skills
   
@@ -34,7 +34,7 @@ For the last 5 years, I have worked as a freelancer, with over 300 projects focu
 </li>
 </ul>
 
-I am looking for opportunity to help with my tech skills, and I am open to work with complex projects.
+I am looking for opportunity to help with my tech skills, and I am open to work with complex projects as a full-stack web programmer.
 Feel free to get in touch and let’s get the best team
 
 # Email
