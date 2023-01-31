@@ -7,9 +7,9 @@ My name is Jose Delphin, I am a Systems Engineer with over 21 years of experienc
  **City:** Valera<br>
  **State:** Trujillo<br>
  **Country:** Venezuela<br>
- **Email:** dalejandro.005@gmail.com<br>
+ **Email:** <a href="mailto:dalejandro.005@gmail.com" target="_blank">dalejandro.005@gmail.com</a><br>
  **Job Title:** Data Analyst / Developer<br>
- **Portfolio:** <a src="https://www.josedelphin.site/practice-areas/" target="_blank">Visit my portfolio</a>
+ **Portfolio:** <a href="https://www.josedelphin.site/practice-areas/" target="_blank">Visit my portfolio</a>
  
 # 💻Tech Skills
   
@@ -31,7 +31,6 @@ For the last 5 years I have worked as a freelancer, with over 300 projects focus
 <ul>
 <li>
 <a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="_blank">Jose Delphin Portfolio </a>
-<p>Update my portfolio as I complete new projects.</p>
 </li>
 <li>
 <a href="https://github.com/adelphinsucasa/Capstone-Project" target="_blank">Capstone Project Jose Delphin</a>
@@ -48,7 +47,7 @@ I'm available for hire. I am looking for an opportunity to help with my technica
 Feel free to contact me and let's get the best team.
 
 # Email
-<a href="mailto: dalejandro.005@gmail.com" target="_blank">dalejandro.005@gmail.com</a>
+<a href="mailto:dalejandro.005@gmail.com" target="_blank">dalejandro.005@gmail.com</a>
 
 # Social Media
 <a href="https://www.linkedin.com/in/josedelphin/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Jose%20Delphin-blue" width="180"></a>
