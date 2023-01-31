@@ -34,7 +34,7 @@ For the last 5 years, I have worked as a freelancer, with over 300 projects focu
 </li>
 </ul>
 
-I am looking for opportunity to help with my tech skills, and I am open to work with complex projects as a **Full-Stack Developer**.
+I'm available for hire. I am looking for opportunity to help with my tech skills, and I am open to work with complex projects as a **Full-Stack Developer**.
 Feel free to get in touch and let’s get the best team
 
 # Email
