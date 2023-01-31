@@ -1,6 +1,12 @@
 ### <h1 align="center">Hi World!!! 👋</h1>
 <p align="center"><img src="./Logo.jpeg" width="180" align="center"><p>
-My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level, living in Trujillo-Venezuela. I love working with development systems for companies or personal projects around the world.
+My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world.
+
+# 📍Current Location
+ 
+ **City:** Valera
+ **State:** Trujillo
+ **Country:** Venezuela
  
 # 💻Tech Skills
   
@@ -22,12 +28,13 @@ For the last 5 years I have worked as a freelancer, with over 300 projects focus
 <ul>
 <li>
 <a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="_blank">Jose Delphin Portfolio </a>
+<p>Update my portfolio as I complete new projects.</p>
 </li>
 <li>
 <a href="https://github.com/adelphinsucasa/Capstone-Project" target="_blank">Capstone Project Jose Delphin</a>
 </li>
 <li>
-<a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="_blank">Awesome books</a>
+<a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="_blank">Awesome Books</a>
 </li>
 <li>
 <a href="https://github.com/adelphinsucasa/To-Do-List" target="_blank">To Do List</a>
