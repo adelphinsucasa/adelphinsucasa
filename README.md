@@ -1,33 +1,45 @@
 ### <h1>Hi World!!! 👋</h1>
-<h2>I am Jose Delphin</h2> <img src="https://www.gifsanimados.org/data/media/56/computadora-y-ordenador-imagen-animada-0019.gif" width="80">
-A System Engineer with over 22 years of experience in different computing areas.<br>
-I have approved HTML and CSS and now studying JavaScript on Microverse, wich is a great platform where I am studying 8 hours a day and working with different coding partners using collaborative programming through Github.
+<img src="./Logo.jpeg" width="180">
+My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world, using the following tech skills:
+<ul>
+<li>VBA macro Excel programming</li>
+<li>Visual Basic Net</li>
+<li>Database management</li>
+<li>Wordpress</li>
+<li>HTML-CSS-JavaScript</li>
+<li>Collaborative coding on Github</li>
+</ul>
 <br>
+Now I am completing a full-stack web programming course at Microverse, which is a remote software development program that uses pair programming and project building to teach development.
 <br>
+I worked in 2 big companies, Coca Cola, and a supermarket chain as a programmer and finally as a TIC manager for 15 years and also as a professor of computer science at the same university where I studied. I was able to learn to work in a team, listen to partners or students and understand their points of view, teach people and do hard research to solve complex projects like ERP, HHRR, Point of Sales, and Accounting.
+<br>
+For the last 5 years, I have worked as a freelancer, with over 300 projects focused on programming, such as macro programming, socket client-server development, and relational database systems with Access, MySQL, SQL Server, and PostgreSQL. Also I am part time remote Data Analyst in a big international company. However, I am focusing on web programming with a lot of experience gained through my programming life and the current advanced course on Microverse. Feel free to check out these 4 projects I've been working on the last few days. 
+
+<ul>
+<li>Jose Delphin Portfolio 
+<a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first">Visit the link</a>
+</li>
+<li>Capstone Project Jose Delphin
+<a href="https://github.com/adelphinsucasa/Capstone-Project">Visit the link</a>t</li>
+</ul>
+<li>Awesome Books
+<a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6">Visit the link</a>
+</li>
+<li>To Do List
+<a href="https://github.com/adelphinsucasa/To-Do-List">Visit the link</a>t</li>
+</ul>
+<br>
+Social Media
 <a href="https://twitter.com/JoseADelphin" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="80"></a>
 <a href="https://www.youtube.com/channel/UCKsCnWm0PIZ2A9Lo_gxZarQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCKsCnWm0PIZ2A9Lo_gxZarQ?style=social" width="120"></a>
-
-
 <br>
 <br>
 Enjoy my Bio:
 
-```javascript
-const JoseDelphin = {
-  Studying: "Front-end developer" || "Full-stack web developer",
-  Goal: "Create an awesome platform to recruit great programmers and give service 
-  to all the people and companies requiring this around the world"
-  pronouns: ["He", "his"],
-  code: ["Visual Basic .Net", "VBA for Excel", "JavaScript", "HTML/CSS", "Bootstrap"],
-  dbManagement: ["Microsoft Access", "MySQL", "SQL Server", "PostgreSQL", "MongoDB"],
-  askMeAbout: ["The 1978", "Microsoft Excel", "Database", "Marketing", "Wordpress", 
-  "Photoshop", "Video Editing with Camtasia Studio", "Funnels"],
-  challenge: "I am honing my HTML/CSS skills and picking up JavaScript",
-  funFacts: ['I have 6+ years of remote work experience with devs from all over the world', 
-  'I love programming, and learn new things everyday', 'I enjoy reaching out complex 
-  projects']
-}
-```
+I am looking for opportunity to help with my tech skills, and I am open to work with complex projects.
+Feel free to get in touch and let’s get the best team
+
 
 ### This week I spent my time on<img src="https://www.gifsanimados.org/data/media/137/reloj-imagen-animada-0004.gif" width="40">
 
@@ -41,3 +53,13 @@ Github       5  hrs          ▓▓▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adelphinsucasa&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adelphinsucasa&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adelphinsucasa&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adelphinsucasa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=adelphinsucasa&icon=0&color=0)](https://visitcount.itsvg.in)
