@@ -1,6 +1,7 @@
-### <h1>Hi World!!! 👋</h1>
+### <p align="center"><h1>Hi World!!! 👋</h1></p>
 <p align="center"><img src="./Logo.jpeg" width="180" align="center"><p>
 <p align="left">My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world, using the following tech skills:<p>
+  
 <ul>
 <li>VBA macro Excel programming</li>
 <li>Visual Basic Net</li>
@@ -9,11 +10,11 @@
 <li>HTML-CSS-JavaScript</li>
 <li>Collaborative coding on Github</li>
 </ul>
-<br>
+
 Now I am completing a full-stack web programming course at Microverse, which is a remote software development program that uses pair programming and project building to teach development.
-<br>
+
 I worked in 2 big companies, Coca Cola, and a supermarket chain as a programmer and finally as a TIC manager for 15 years and also as a professor of computer science at the same university where I studied. I was able to learn to work in a team, listen to partners or students and understand their points of view, teach people and do hard research to solve complex projects like ERP, HHRR, Point of Sales, and Accounting.
-<br>
+
 For the last 5 years, I have worked as a freelancer, with over 300 projects focused on programming, such as macro programming, socket client-server development, and relational database systems with Access, MySQL, SQL Server, and PostgreSQL. Also I am part time remote Data Analyst in a big international company. However, I am focusing on web programming with a lot of experience gained through my programming life and the current advanced course on Microverse. Feel free to check out these 4 projects I've been working on the last few days. 
 
 <ul>
