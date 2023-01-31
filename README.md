@@ -9,7 +9,7 @@ My name is Jose Delphin, I am a Systems Engineer with over 21 years of experienc
  **Country:** Venezuela<br>
  **Email:** dalejandro.005@gmail.com<br>
  **Job Title:** Data Analyst / Developer<br>
- **Portfolio:** Coming soon
+ **Portfolio:** <a src="https://www.josedelphin.site/practice-areas/" target="_blank">Viit my portfolio</a>
  
 # 💻Tech Skills
   
@@ -51,8 +51,9 @@ Feel free to contact me and let's get the best team.
 <a href="mailto: dalejandro.005@gmail.com" target="_blank">dalejandro.005@gmail.com</a>
 
 # Social Media
+<a href="https://www.linkedin.com/in/josedelphin/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Jose%20Delphin-blue" width="180"></a>
 <a href="https://twitter.com/JoseADelphin" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="80"></a>
-<a href="https://www.youtube.com/channel/UCKsCnWm0PIZ2A9Lo_gxZarQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCKsCnWm0PIZ2A9Lo_gxZarQ?style=social" width="120"></a>
+<a href="https://www.youtube.com/channel/UCKsCnWm0PIZ2A9Lo_gxZarQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-Jose%20Delphin-red" width="180"></a>
 <a href="https://www.facebook.com/josedelphinasesor" target="_blank"><img src="https://img.shields.io/badge/Facebook-Jose%20Delphin-blue" width="180"></a>
 <a href="https://www.instagram.com/josedelphin_oficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Jose%20Delphin-orange" width="180"></a>
 
