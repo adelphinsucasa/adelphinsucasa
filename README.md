@@ -18,26 +18,27 @@ I worked in 2 big companies, Coca Cola, and a supermarket chain as a programmer 
 For the last 5 years, I have worked as a freelancer, with over 300 projects focused on programming, such as macro programming, socket client-server development, and relational database systems with Access, MySQL, SQL Server, and PostgreSQL. Also I am part time remote Data Analyst in a big international company. However, I am focusing on web programming with a lot of experience gained through my programming life and the current advanced course on Microverse. Feel free to check out these 4 projects I've been working on the last few days. 
 
 <ul>
-<li>Jose Delphin Portfolio 
-<a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="blank">Visit the link</a>
+<li>
+<a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="blank">Jose Delphin Portfolio </a>
 </li>
-<li>Capstone Project Jose Delphin
-<a href="https://github.com/adelphinsucasa/Capstone-Project" target="blank">Visit the link</a>
+<li>
+<a href="https://github.com/adelphinsucasa/Capstone-Project" target="blank">Capstone Project Jose Delphin</a>
 </li>
-<li>Awesome Books
-<a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="blank">Visit the link</a>
+<li>
+<a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="blank">Awesome Books</a>
 </li>
-<li>To Do List
-<a href="https://github.com/adelphinsucasa/To-Do-List" target="blank">Visit the link</a>
+<li>
+<a href="https://github.com/adelphinsucasa/To-Do-List" target="blank">To Do List</a>
 </li>
 </ul>
 
 I am looking for opportunity to help with my tech skills, and I am open to work with complex projects.
 Feel free to get in touch and let’s get the best team
 
-Email
+# Email
 <a href="dalejandro.005@gmail.com" target="blank">dalejandro.005@gmail.com</a>
-Social Media
+
+# Social Media
 <a href="https://twitter.com/JoseADelphin" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="80"></a>
 <a href="https://www.youtube.com/channel/UCKsCnWm0PIZ2A9Lo_gxZarQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCKsCnWm0PIZ2A9Lo_gxZarQ?style=social" width="120"></a>
 
