@@ -22,13 +22,14 @@ For the last 5 years, I have worked as a freelancer, with over 300 projects focu
 <a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="blank">Visit the link</a>
 </li>
 <li>Capstone Project Jose Delphin
-<a href="https://github.com/adelphinsucasa/Capstone-Project" target="blank">Visit the link</a></li>
-</ul>
+<a href="https://github.com/adelphinsucasa/Capstone-Project" target="blank">Visit the link</a>
+</li>
 <li>Awesome Books
 <a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="blank">Visit the link</a>
 </li>
 <li>To Do List
-<a href="https://github.com/adelphinsucasa/To-Do-List" target="blank">Visit the link</a></li>
+<a href="https://github.com/adelphinsucasa/To-Do-List" target="blank">Visit the link</a>
+</li>
 </ul>
 
 I am looking for opportunity to help with my tech skills, and I am open to work with complex projects.
