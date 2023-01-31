@@ -5,19 +5,19 @@ My name is Jose Delphin, I am a Systems Engineer with over 21 years of experienc
 # 💻Tech Skills
   
 <ul>
-<li>VBA macro Excel programming</li>
+<li>VBA Macro Excel Programming</li>
 <li>Visual Basic Net</li>
-<li>Database management</li>
+<li>Database Management</li>
 <li>Wordpress</li>
 <li>HTML-CSS-JavaScript</li>
 <li>Collaborative coding on Github</li>
 </ul>
 
-Now I am completing a **Full-Stack Developer** course at Microverse, which is a remote software development program that uses pair programming and project building to teach development. Don't hesitate to improve your skills with us 👉 <a href="https://www.microverse.org/?grsf=39y755" target="_blank">MICROVERSE</a>
+Now I am taking a full stack developer course at Microverse, which is a remote software development program that uses pair programming and project building to teach development. Don't hesitate to improve your skills with us. 👉 <a href="https://www.microverse.org/?grsf=39y755" target="_blank">MICROVERSE</a>
 
-I worked in 2 big companies, Coca Cola, and a supermarket chain as a programmer and finally as a TIC manager for 15 years and also as a professor of computer science at the same university where I studied. I was able to learn to work in a team, listen to partners or students and understand their points of view, teach people and do hard research to solve complex projects like ERP, HHRR, Point of Sales, and Accounting.
+I worked in 2 big companies, Coca Cola, and a supermarket chain as a programmer and finally as a TIC manager for 15 years and also as a professor of computer science at the same university where I studied. I was able to learn to work in a team, listen to partners or students and understand their point of view, teach people and do hard research to solve complex projects like ERP, HHRR, Point of Sales, and Accounting.
 
-For the last 5 years, I have worked as a freelancer, with over 300 projects focused on programming, such as macro programming, socket client-server development, and relational database systems with Access, MySQL, SQL Server, and PostgreSQL. Also I am part time remote Data Analyst in a big international company. However, I am focusing on web programming with a lot of experience gained through my programming life and the current advanced course on Microverse. Feel free to check out these 4 projects I've been working on the last few days. 
+For the last 5 years I have worked as a freelancer, with over 300 projects focused on programming, such as macro programming, socket client-server development, and relational database systems with Access, MySQL, SQL Server, and PostgreSQL. I also work part-time as a remote data analyst in a large international company. However, I am focusing on web programming with a lot of experience gained through my programming life and the current advanced course on Microverse. Feel free to check out these 4 projects I've been working on the last few days. 
 
 <ul>
 <li>
@@ -34,8 +34,8 @@ For the last 5 years, I have worked as a freelancer, with over 300 projects focu
 </li>
 </ul>
 
-I'm available for hire. I am looking for opportunity to help with my tech skills, and I am open to work with complex projects as a **Full-Stack Developer**.
-Feel free to get in touch and let’s get the best team
+I'm available for hire. I am looking for an opportunity to help with my technical skills, and I am open to working with complex projects as a **Full-Stack Developer**.
+Feel free to contact me and let's get the best team.
 
 # Email
 <a href="mailto: dalejandro.005@gmail.com" target="_blank">dalejandro.005@gmail.com</a>
