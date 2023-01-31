@@ -10,7 +10,7 @@ My name is Jose Delphin, I am a Systems Engineer with over 21 years of experienc
 
  **Email:**  [dalejandro.005@gmail.com](mailto:dalejandro.005@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<br>
  **Job Title:** Data Analyst / Developer<br>
- **Portfolio:** [Visit my portfolio](https://www.josedelphin.site/practice-areas/):target="_blank"
+ **Portfolio:** [Visit my portfolio](https://www.josedelphin.site/practice-areas/)
  
 # 💻Tech Skills
   
@@ -23,7 +23,7 @@ My name is Jose Delphin, I am a Systems Engineer with over 21 years of experienc
 <li>Collaborative coding on Github</li>
 </ul>
 
-I am currently taking a full stack developer course at Microverse, which is a remote software development program that uses pair programming and project building to teach development. Don't hesitate to improve your skills with us. 👉 <a href="https://www.microverse.org/?grsf=39y755" target="_blank">MICROVERSE</a>
+I am currently taking a full stack developer course at Microverse, which is a remote software development program that uses pair programming and project building to teach development. Don't hesitate to improve your skills with us. 👉 [MICROVERSE](https://www.microverse.org/?grsf=39y755)
 
 I worked in 2 big companies, Coca Cola, and a supermarket chain as a programmer and finally as a TIC manager for 15 years and also as a professor of computer science at the same university where I studied. I was able to learn to work in a team, listen to partners or students and understand their point of view, teach people and do hard research to solve complex projects like ERP, HHRR, Point of Sales, and Accounting.
 
