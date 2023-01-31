@@ -11,7 +11,7 @@ My name is Jose Delphin, I am a Systems Engineer with over 21 years of experienc
 <li>Collaborative coding on Github</li>
 </ul>
 
-Now I am completing a full-stack web programming course at Microverse, which is a remote software development program that uses pair programming and project building to teach development.
+Now I am completing a full-stack web programming course at Microverse, which is a remote software development program that uses pair programming and project building to teach development. Don't hesitate to improve your skills with us => <a href="https://www.microverse.org/?grsf=39y755" target="_blank">MICROVERSE</a>
 
 I worked in 2 big companies, Coca Cola, and a supermarket chain as a programmer and finally as a TIC manager for 15 years and also as a professor of computer science at the same university where I studied. I was able to learn to work in a team, listen to partners or students and understand their points of view, teach people and do hard research to solve complex projects like ERP, HHRR, Point of Sales, and Accounting.
 
@@ -19,16 +19,16 @@ For the last 5 years, I have worked as a freelancer, with over 300 projects focu
 
 <ul>
 <li>
-<a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="blank">Jose Delphin Portfolio </a>
+<a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="_blank">Jose Delphin Portfolio </a>
 </li>
 <li>
-<a href="https://github.com/adelphinsucasa/Capstone-Project" target="blank">Capstone Project Jose Delphin</a>
+<a href="https://github.com/adelphinsucasa/Capstone-Project" target="_blank">Capstone Project Jose Delphin</a>
 </li>
 <li>
-<a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="blank">Awesome Books</a>
+<a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="_blank">Awesome Books</a>
 </li>
 <li>
-<a href="https://github.com/adelphinsucasa/To-Do-List" target="blank">To Do List</a>
+<a href="https://github.com/adelphinsucasa/To-Do-List" target="_blank">To Do List</a>
 </li>
 </ul>
 
@@ -36,7 +36,7 @@ I am looking for opportunity to help with my tech skills, and I am open to work 
 Feel free to get in touch and let’s get the best team
 
 # Email
-<a href="dalejandro.005@gmail.com" target="blank">dalejandro.005@gmail.com</a>
+<a href="dalejandro.005@gmail.com" target="_blank">dalejandro.005@gmail.com</a>
 
 # Social Media
 <a href="https://twitter.com/JoseADelphin" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="80"></a>
