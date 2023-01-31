@@ -30,6 +30,7 @@ I worked in 2 big companies, Coca Cola, and a supermarket chain as a programmer 
 For the last 5 years I have worked as a freelancer, with over 300 projects focused on programming, such as macro programming, socket client-server development, and relational database systems with Access, MySQL, SQL Server, and PostgreSQL. I also work part-time as a remote data analyst for a large international company. However, I focus on web programming with a lot of experience gained through my programming life and the current advanced course on Microverse. Feel free to check out these 4 projects I've been working on the last few days. 
 
 <ul>
+ Projects
 [<li>Jose Delphin Portfolio</li>](https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first)
 [<li>Capstone Project Jose Delphin</li>](https://github.com/adelphinsucasa/Capstone-Project)
 [<li>Awesome Books</li>](https://github.com/adelphinsucasa/Awesome-Books-with-ES6)
