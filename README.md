@@ -8,7 +8,7 @@ My name is Jose Delphin, I am a Systems Engineer with over 21 years of experienc
  **State:** Trujillo<br>
  **Country:** Venezuela<br>
 
- **Email:**  [dalejandro.005@gmail.com](mailto:dalejandro.005@gmail.com){:target="_blank" rel="noopener"}<br>
+ **Email:**  [dalejandro.005@gmail.com](mailto:dalejandro.005@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<br>
  **Job Title:** Data Analyst / Developer<br>
  **Portfolio:** <a href="https://www.josedelphin.site/practice-areas/" target="_blank">Visit my portfolio</a>
  
