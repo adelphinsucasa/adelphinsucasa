@@ -30,18 +30,11 @@ I worked in 2 big companies, Coca Cola, and a supermarket chain as a programmer 
 For the last 5 years I have worked as a freelancer, with over 300 projects focused on programming, such as macro programming, socket client-server development, and relational database systems with Access, MySQL, SQL Server, and PostgreSQL. I also work part-time as a remote data analyst for a large international company. However, I focus on web programming with a lot of experience gained through my programming life and the current advanced course on Microverse. Feel free to check out these 4 projects I've been working on the last few days. 
 
 <ul>
-<li>
-[Jose Delphin Portfolio](https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first)
-</li>
-<li>
-[Capstone Project Jose Delphin](https://github.com/adelphinsucasa/Capstone-Project)
-</li>
-<li>
-[Awesome Books](https://github.com/adelphinsucasa/Awesome-Books-with-ES6)
-</li>
-<li>
-[To Do List](https://github.com/adelphinsucasa/To-Do-List)
-</li>
+
+[<li>Jose Delphin Portfolio</li>](https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first)
+[<li>Capstone Project Jose Delphin</li>](https://github.com/adelphinsucasa/Capstone-Project)
+[<li>Awesome Books</li>](https://github.com/adelphinsucasa/Awesome-Books-with-ES6)
+[<li>To Do List</li>](https://github.com/adelphinsucasa/To-Do-List)
 </ul>
 
 I'm available for hire. I am looking for an opportunity to help with my technical skills, and I am open to working with complex projects as a **full stack developer**.
@@ -52,10 +45,10 @@ Feel free to contact me and let's get the best team.
 
 # Social Media
 [<img src="https://img.shields.io/badge/Linkedin-Jose%20Delphin-blue" width="180">](https://www.linkedin.com/in/josedelphin/)
-<a href="https://twitter.com/JoseADelphin" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="80"></a>
-<a href="https://www.youtube.com/channel/UCKsCnWm0PIZ2A9Lo_gxZarQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-Jose%20Delphin-red" width="180"></a>
-<a href="https://www.facebook.com/josedelphinasesor" target="_blank"><img src="https://img.shields.io/badge/Facebook-Jose%20Delphin-blue" width="180"></a>
-<a href="https://www.instagram.com/josedelphin_oficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Jose%20Delphin-orange" width="180"></a>
+[<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="80">](https://twitter.com/JoseADelphin)
+[<img src="https://img.shields.io/badge/Youtube-Jose%20Delphin-red" width="180">](https://www.youtube.com/channel/UCKsCnWm0PIZ2A9Lo_gxZarQ)
+[<img src="https://img.shields.io/badge/Facebook-Jose%20Delphin-blue" width="180">](https://img.shields.io/badge/Facebook-Jose%20Delphin-blue)
+[<img src="https://img.shields.io/badge/Instagram-Jose%20Delphin-orange" width="180">](https://www.instagram.com/josedelphin_oficial/)
 
 ### This week I spent my time on<img src="https://www.gifsanimados.org/data/media/137/reloj-imagen-animada-0004.gif" width="40">
 
