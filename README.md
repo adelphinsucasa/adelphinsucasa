@@ -9,7 +9,7 @@ My name is Jose Delphin, I am a Systems Engineer with over 21 years of experienc
  **Country:** Venezuela<br>
  **Email:** dalejandro.005@gmail.com<br>
  **Job Title:** Data Analyst / Developer<br>
- **Portfolio:** <a src="https://www.josedelphin.site/practice-areas/" target="_blank">Viit my portfolio</a>
+ **Portfolio:** <a src="https://www.josedelphin.site/practice-areas/" target="_blank">Visit my portfolio</a>
  
 # 💻Tech Skills
   
