@@ -7,7 +7,8 @@ My name is Jose Delphin, I am a Systems Engineer with over 21 years of experienc
  **City:** Valera<br>
  **State:** Trujillo<br>
  **Country:** Venezuela<br>
- **Email:** <a href="mailto:dalejandro.005@gmail.com" target="_blank">dalejandro.005@gmail.com</a><br>
+
+ **Email:**  [dalejandro.005@gmail.com](mailto:dalejandro.005@gmail.com){:target="_blank" rel="noopener"}<br>
  **Job Title:** Data Analyst / Developer<br>
  **Portfolio:** <a href="https://www.josedelphin.site/practice-areas/" target="_blank">Visit my portfolio</a>
  
