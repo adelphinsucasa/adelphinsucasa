@@ -31,16 +31,16 @@ For the last 5 years I have worked as a freelancer, with over 300 projects focus
 
 <ul>
 <li>
-<a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="_blank">Jose Delphin Portfolio </a>
+[Jose Delphin Portfolio](https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first)
 </li>
 <li>
-<a href="https://github.com/adelphinsucasa/Capstone-Project" target="_blank">Capstone Project Jose Delphin</a>
+[Capstone Project Jose Delphin](https://github.com/adelphinsucasa/Capstone-Project)
 </li>
 <li>
-<a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="_blank">Awesome Books</a>
+[Awesome Books](https://github.com/adelphinsucasa/Awesome-Books-with-ES6)
 </li>
 <li>
-<a href="https://github.com/adelphinsucasa/To-Do-List" target="_blank">To Do List</a>
+[To Do List](https://github.com/adelphinsucasa/To-Do-List)
 </li>
 </ul>
 
@@ -48,10 +48,10 @@ I'm available for hire. I am looking for an opportunity to help with my technica
 Feel free to contact me and let's get the best team.
 
 # Email
-<a href="mailto:dalejandro.005@gmail.com" target="_blank">dalejandro.005@gmail.com</a>
+[dalejandro.005@gmail.com](mailto:dalejandro.005@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 # Social Media
-<a href="https://www.linkedin.com/in/josedelphin/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Jose%20Delphin-blue" width="180"></a>
+[<img src="https://img.shields.io/badge/Linkedin-Jose%20Delphin-blue" width="180">](https://www.linkedin.com/in/josedelphin/)
 <a href="https://twitter.com/JoseADelphin" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJoseADelphin" width="80"></a>
 <a href="https://www.youtube.com/channel/UCKsCnWm0PIZ2A9Lo_gxZarQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-Jose%20Delphin-red" width="180"></a>
 <a href="https://www.facebook.com/josedelphinasesor" target="_blank"><img src="https://img.shields.io/badge/Facebook-Jose%20Delphin-blue" width="180"></a>
