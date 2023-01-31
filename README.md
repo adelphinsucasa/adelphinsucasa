@@ -1,4 +1,4 @@
-<p align="center">### <h1>Hi World!!! 👋</h1></p>
+### <h1 align="center">Hi World!!! 👋</h1>
 <p align="center"><img src="./Logo.jpeg" width="180" align="center"><p>
 My name is Jose Delphin, I am a Systems Engineer with over 21 years of experience, with native Spanish language and advanced English level. I love working with development systems for companies or personal projects around the world, using the following tech skills:
   
@@ -22,7 +22,7 @@ For the last 5 years, I have worked as a freelancer, with over 300 projects focu
 <a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="blank">Visit the link</a>
 </li>
 <li>Capstone Project Jose Delphin
-<a href="https://github.com/adelphinsucasa/Capstone-Project" target="blank">Visit the link</a>t</li>
+<a href="https://github.com/adelphinsucasa/Capstone-Project" target="blank">Visit the link</a></li>
 </ul>
 <li>Awesome Books
 <a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="blank">Visit the link</a>
