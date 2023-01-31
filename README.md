@@ -31,7 +31,7 @@ For the last 5 years I have worked as a freelancer, with over 300 projects focus
 
 <ul>
  Projects
-[<li>Jose Delphin Portfolio</li>](https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first)
+<li>[Jose Delphin Portfolio](https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first)</li>
 [<li>Capstone Project Jose Delphin</li>](https://github.com/adelphinsucasa/Capstone-Project)
 [<li>Awesome Books</li>](https://github.com/adelphinsucasa/Awesome-Books-with-ES6)
 [<li>To Do List</li>](https://github.com/adelphinsucasa/To-Do-List)
