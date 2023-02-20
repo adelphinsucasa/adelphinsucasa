@@ -27,13 +27,15 @@ I am currently taking a full stack developer course at Microverse, which is a re
 
 I worked in 2 big companies, Coca Cola, and a supermarket chain as a programmer and finally as a TIC manager for 15 years and also as a professor of computer science at the same university where I studied. I was able to learn to work in a team, listen to partners or students and understand their point of view, teach people and do hard research to solve complex projects like ERP, HHRR, Point of Sales, and Accounting.
 
-For the last 5 years I have worked as a freelancer, with over 300 projects focused on programming, such as macro programming, socket client-server development, and relational database systems with Access, MySQL, SQL Server, and PostgreSQL. I also work part-time as a remote data analyst for a large international company. However, I focus on web programming with a lot of experience gained through my programming life and the current advanced course on Microverse. Feel free to check out these 4 projects I've been working on the last few days. 
+For the last 5 years I have worked as a freelancer, with over 300 projects focused on programming, such as macro programming, socket client-server development, and relational database systems with Access, MySQL, SQL Server, and PostgreSQL. I also work part-time as a remote data analyst for a large international company. However, I focus on web programming with a lot of experience gained through my programming life and the current advanced course on Microverse. Feel free to check out these 6 projects I've been working on the last few days. 
 
 <ul>
 <li><a href="https://github.com/adelphinsucasa/Portfolio-Setup-and-mobile-first" target="_blank">Jose Delphin Portfolio</a></li>
 <li><a href="https://github.com/adelphinsucasa/Capstone-Project" target="_blank">Capstone Project Jose Delphin</a></li>
 <li><a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6" target="_blank">Awesome Books</a></li>
 <li><a href="https://github.com/adelphinsucasa/To-Do-List" target="_blank">To Do List</a></li>
+ <li><a href="https://github.com/adelphinsucasa/leaderboard" target="_blank">Leaderboard</a></li>
+ <li><a href="https://github.com/adelphinsucasa/Capstone-Project-with-Kanban-board" target="_blank">Javascript Capstone Project</a></li>
 </ul>
 
 I'm available for hire. I am looking for an opportunity to help with my technical skills, and I am open to working with complex projects as a **full stack developer**.
